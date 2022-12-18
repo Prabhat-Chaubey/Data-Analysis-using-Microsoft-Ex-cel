@@ -6,5 +6,5 @@ operations Performed on the excel:-
  2. Filtering
  3. Sorting
  4. Conditional Formating
- 5. VLLOKUP feature
+ 5. VLOOKUP feature
  6. Pivot table for all possible cases
